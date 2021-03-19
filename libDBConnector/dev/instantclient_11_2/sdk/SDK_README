@@ -1,0 +1,14 @@
+SDK Package Information 
+======================= 
+Fri Oct 11 06:25:02 CDT 2013
+Client Shared Library 32-bit - 11.2.0.4.0
+
+Windows NT Version V5.2 Service Pack 2 
+CPU                 : 2 - type 586, 2 Physical Cores
+Process Affinity    : 0x0x00000000
+Memory (Avail/Total): Ph:11291M/11999M, Ph+PgF:15306M/15856M, VA:1964M/2047M VM name             : VMWare Version (6)
+
+Operating in ORACLE_HOME environment.
+Small timezone file = C:\v45\oracle\oracore\zoneinfo\timezone_14.dat
+Large timezone file = C:\v45\oracle\oracore\zoneinfo\timezlrg_14.dat
+
